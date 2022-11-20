@@ -1,5 +1,9 @@
+# Blockchains, Cryptocurrency and Smart Contracts
+Assignments and Projects done during the course CS 765 - Introduction to Blockchains, Cryptocurrency and Smart Contracts taught by [Prof. Vinay Ribeiro](https://www.cse.iitb.ac.in/~vinayr/).
+
 # Simulation of a Peer to Peer Cryptocurrency Network
-Assignments and Projects done during the course - Introduction to Blockchains, Cryptocurrency and Smart Contracts taught by [Prof. Vinay Ribeiro](https://www.cse.iitb.ac.in/~vinayr/).
+
+Link to [Report of Part 1 of Project](./report.pdf)
 
 ## Instructions to run the simulator:
 Compile the `main.cpp` file using `g++ main.cpp`.
@@ -30,6 +34,8 @@ The directory contains the following files:
 
 # Selfish and Stubborn Mining Attacks
 
+Link to [Report of Part 2 of Project](./Selfish%20and%20Stubborn%20Mining/report.pdf)
+
 ## Instructions to run the simulator:
 Compile the `main.cpp` file using `g++ main.cpp`.
 ```bash
@@ -57,6 +63,8 @@ The directory contains two folders `selfish` and `stubborn`. Each directory has 
 5. `MPU.txt` : Contains the required ratios (MPU, effective alpha, etc.) for analysis
 
 # Layer-2 DAPP over Blockchains
+
+Link to [Report of Part 3 of Project](./Layer-2%20DAPP%20over%20Blockchain/report.pdf)
 
 1. Run the following command and copy the address to the genesis.json in the alloc section that adds the balance to the geth account.
 ```

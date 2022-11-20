@@ -1,0 +1,61 @@
+Final amount with Peer 0: 16.5698
+Number of Blocks Generated:   26
+Final amount with Peer 1: 3.52287
+Number of Blocks Generated:   26
+Final amount with Peer 2: 31.1222
+Number of Blocks Generated:   26
+Final amount with Peer 3: 24.2928
+Number of Blocks Generated:   26
+Final amount with Peer 4: 18.7155
+Number of Blocks Generated:   26
+Final amount with Peer 5: 375.869
+Number of Blocks Generated:   26
+Final amount with Peer 6: 60.2789
+Number of Blocks Generated:   26
+Final amount with Peer 7: 137.26
+Number of Blocks Generated:   26
+Final amount with Peer 8: 307.502
+Number of Blocks Generated:   26
+Final amount with Peer 9: 754.458
+Number of Blocks Generated:   26
+Final amount with Peer 10: 32.9775
+Number of Blocks Generated:   26
+Final amount with Peer 11: 335.828
+Number of Blocks Generated:   26
+Final amount with Peer 12: 25.5727
+Number of Blocks Generated:   26
+Final amount with Peer 13: 8.12228
+Number of Blocks Generated:   26
+Final amount with Peer 14: 55.6547
+Number of Blocks Generated:   26
+Final amount with Peer 15: 62.5239
+Number of Blocks Generated:   26
+Final amount with Peer 16: 164.658
+Number of Blocks Generated:   26
+Final amount with Peer 17: 115.412
+Number of Blocks Generated:   26
+Final amount with Peer 18: 18.6246
+Number of Blocks Generated:   26
+Final amount with Peer 19: 61.6337
+Number of Blocks Generated:   26
+Total number of Blocks generated:26
+Ratio for 0    :0.0384615
+Ratio for 1    :0.0384615
+Ratio for 2    :0.0384615
+Ratio for 3    :0.0384615
+Ratio for 4    :0.0384615
+Ratio for 5    :0.0384615
+Ratio for 6    :0.0769231
+Ratio for 7    :0.0769231
+Ratio for 8    :0.0384615
+Ratio for 9    :0.0384615
+Ratio for 10    :0.0769231
+Ratio for 11    :0.0769231
+Ratio for 12    :0.0769231
+Ratio for 13    :0.0384615
+Ratio for 14    :0.0384615
+Ratio for 15    :0
+Ratio for 16    :0
+Ratio for 17    :0.0384615
+Ratio for 18    :0.0384615
+Ratio for 19    :0

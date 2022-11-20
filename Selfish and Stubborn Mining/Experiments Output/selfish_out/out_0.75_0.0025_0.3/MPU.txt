@@ -1,0 +1,9 @@
+MPU_ADVERSARY:                    0.818182
+MPU_OVERALL:                      0.568182
+TOTAL ADVERSARY:                  11
+MAIN ADVERSARY:                   9
+EFFECTIVE ALPHA:                  0.36
+PRIVATE SIZE:                     1
+UPPER BOUND ON ALPHA:             0.384615
+THEORETICAL RATIO AT GAMMA = 1:   0.380622
+THEORETICAL RATIO AT GAMMA = 0:   0.273126
